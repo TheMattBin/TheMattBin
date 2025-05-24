@@ -5,9 +5,6 @@
 - 🌟 LLMs/vLLMs/CV Enthusiast
 - 📍 Hong Kong
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMattBin&show_icons=true&theme=dark&count_private=true)
-
 ## 🔥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMattBin&layout=compact&theme=dark)
 
