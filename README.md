@@ -6,7 +6,7 @@
 - 📍 Hong Kong
 
 ## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMattBin&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMattBin&layout=compact&theme=dark&langs_count=5)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
